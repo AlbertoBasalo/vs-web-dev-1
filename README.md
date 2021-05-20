@@ -29,6 +29,8 @@ https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/1-getting-starte
 
 - [Conceptos básicos de JavaScript: matrices y bucles](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/4-arrays-loops/translations/README.es.md#conceptos-b%C3%A1sicos-de-javascript-matrices-y-bucles)
 
+- [PRÁCTICA:  Carrito de la compra ](https://github.com/vs-web-dev-1/vs-web-dev-1/issues/1)
+
 # 2 - Angular
 
 # 3 - React

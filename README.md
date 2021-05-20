@@ -27,7 +27,7 @@ https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/1-getting-starte
 
 - [Conceptos básicos de JavaScript: tomar decisiones](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/3-making-decisions/translations/README.es.md#conceptos-b%C3%A1sicos-de-javascript-tomar-decisiones)
 
-- [JavaScript Basics: Arrays and Loops](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/4-arrays-loops/README.md#javascript-basics-arrays-and-loops)
+- [Conceptos básicos de JavaScript: matrices y bucles](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/4-arrays-loops/translations/README.es.md#conceptos-b%C3%A1sicos-de-javascript-matrices-y-bucles)
 
 # 2 - Angular
 

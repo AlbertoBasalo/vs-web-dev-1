@@ -23,7 +23,7 @@ https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/1-getting-starte
 
 - [Conceptos básicos de JavaScript: tipos de datos](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/1-data-types/translations/README.es.md#conceptos-b%C3%A1sicos-de-javascript-tipos-de-datos)
 
-- [Conceptos básicos de JavaScript: funcións y funciones](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/2-functions-methods/translations/README.es.md)
+- [Conceptos básicos de JavaScript: métodos y funciones](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/2-functions-methods/translations/README.es.md)
 
 - [Conceptos básicos de JavaScript: tomar decisiones](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/2-js-basics/3-making-decisions/translations/README.es.md#conceptos-b%C3%A1sicos-de-javascript-tomar-decisiones)
 

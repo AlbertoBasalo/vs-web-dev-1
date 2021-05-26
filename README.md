@@ -31,6 +31,14 @@ https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/1-getting-starte
 
 - [PRÁCTICA:  Carrito de la compra ](https://github.com/vs-web-dev-1/vs-web-dev-1/issues/1)
 
+- [Introducción a HTML](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/3-terrarium/1-intro-to-html/translations/README.es.md#terrarium-project-parte-1-introducci%C3%B3n-a-html)
+
+- [Introducción a CSS](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/3-terrarium/2-intro-to-css/translations/README.es.md#terrarium-project-parte-2-introducci%C3%B3n-a-css)
+
+- [Manipulación del DOM y fucniones encerradas](https://github.com/vs-web-dev-1/Web-Dev-For-Beginners/blob/main/3-terrarium/3-intro-to-DOM-and-closures/translations/README.es.md#terrarium-project-part-3-dom-manipulaci%C3%B3n-y-funciones-encerradas)
+
+
+
 # 2 - Angular
 
 # 3 - React
